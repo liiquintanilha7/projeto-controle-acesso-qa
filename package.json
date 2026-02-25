@@ -1,0 +1,14 @@
+{
+  "name": "projeto-controle-acesso",
+  "version": "1.0.0",
+  "description": "Projeto de controle de acesso com testes automatizados usando Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Seu nome",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
