@@ -1,0 +1,18 @@
+# Dependências
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Arquivos de ambiente
+.env
+
+# Cobertura de testes
+coverage/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
